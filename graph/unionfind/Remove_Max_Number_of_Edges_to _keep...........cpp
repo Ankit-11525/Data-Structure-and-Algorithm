@@ -35,13 +35,23 @@ Explanation: In the current graph, Alice cannot reach node 4 from the other node
  
 
 Constraints:
-
 1 <= n <= 105
 1 <= edges.length <= min(105, 3 * n * (n - 1) / 2)
 edges[i].length == 3
 1 <= typei <= 3
 1 <= ui < vi <= n
 All tuples (typei, ui, vi) are distinct
+
+
+
+
+
+
+
+
+
+
+
 
     
 class Solution
